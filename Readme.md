@@ -12,3 +12,4 @@ Technologies:
 - MongoDB
 - Bootstrap
 - Bootstrap Icons
+- Typescript
