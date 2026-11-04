@@ -25,3 +25,4 @@ Projects:
 	- folder Repositories - holds the required respository interfaces for the application. Implementation for them will be found in the database layer
 	- folder for DB data models?
 - CarsDbNxt.Database - implements repositories for working with the MongoDB. Imports CarsDBNxt.Services (and CarsDBNxt.Models?).
+- CarsDbNxt.Tests - holds unit tests for implementation of services. Imports CarsDBNxt.Services and CarsDBNxt.Models.
